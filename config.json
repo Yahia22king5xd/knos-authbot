@@ -14,7 +14,7 @@
 
     "verify_guilds": {
         "1356657979293831498": 1356657979293831498,
-        "Put your server ID here": "Put your role ID for this server here (without quotes). You can leave this dict empty for no guilds with verification system."
+        "Put your server ID here": "Put your role ID for this server here (without quote]s). You can leave this dict empty for no guilds with verification system."
     },
 
     "server_logging": true,
