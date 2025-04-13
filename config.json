@@ -2,7 +2,7 @@
     "token": "MTM1ODc2OTU5ODY1NjI4Njc3MQ.GnTvN4.kFCwTrPsgHrPMAXnKcTZoF_EpaqQJybm9CHD3g",
     "client_id": "1358769598656286771",
     "client_secret": "gH-LE57QdFcrpk47ZAunldAQi4MsgjQ_",
-    "redirect_uri": "https://auth-delta-two.vercel.app",
+    "redirect_uri": "verification-zeta.vercel.app",
     "scope": "identify%20guilds.join",
 
     "admin_guilds": [1356657979293831498],
