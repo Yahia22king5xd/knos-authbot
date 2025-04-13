@@ -1,19 +1,19 @@
 {
-    "token": "YOUR-BOT-TOKEN",
-    "client_id": "YOUR-CLIENT-ID",
-    "client_secret": "YOUR-CLIENT-SECRET",
-    "redirect_uri": "YOUR-REDIRECT-URI",
+    "token": "MTM1ODc2OTU5ODY1NjI4Njc3MQ.GnTvN4.kFCwTrPsgHrPMAXnKcTZoF_EpaqQJybm9CHD3g",
+    "client_id": "1358769598656286771",
+    "client_secret": "gH-LE57QdFcrpk47ZAunldAQi4MsgjQ_",
+    "redirect_uri": "https://auth-delta-two.vercel.app",
     "scope": "identify%20guilds.join",
 
-    "admin_guilds": [],
-    "owners": [],
-    "log_channel": 0,
+    "admin_guilds": [1356657979293831498],
+    "owners": [1175159416912367667],
+    "log_channel": 1358759550991208649,
 
     "server_host": "0.0.0.0",
     "server_port": 8000,
 
     "verify_guilds": {
-        "1234567890": 987654321,
+        "1356657979293831498": 1356657979293831498,
         "Put your server ID here": "Put your role ID for this server here (without quotes). You can leave this dict empty for no guilds with verification system."
     },
 
